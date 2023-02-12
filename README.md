@@ -1,4 +1,4 @@
-# Data-Science-Capstone
+# IBM Data Science Capstone Project - SpaceX
 ## Introduction
 
 SpaceX is a revolutionary company who has disrupt the space industry by offering a rocket
