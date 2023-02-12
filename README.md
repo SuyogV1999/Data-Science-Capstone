@@ -21,7 +21,7 @@ the first stage will land successfully.
 6. [**Interactive Visual Analytics with Folium**](https://github.com/SuyogV1999/Data-Science-Capstone/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
 7. [**Dashboard Application (Code)**](https://github.com/SuyogV1999/Data-Science-Capstone/blob/main/spacex_dash_app.py)
 8. [**Predictive Analysis - Machine Learning Lab**](https://github.com/SuyogV1999/Data-Science-Capstone/blob/main/Predictive_Analysis_Machine_Learning.ipynb)
-9. [**Final Presentation (Slide)**]
+9. [**Final Presentation (Slide)**](https://github.com/SuyogV1999/Data-Science-Capstone/blob/master/Winning%20Space%20Race%20with%20Data%20Science.pdf)
 
 
 ### Acknowledgements 
