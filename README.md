@@ -1,4 +1,5 @@
-https://github.com/SuyogV1999/Data-Science-Capstone/blob/master/Screenshot_20230212_140052.png
+![Screenshot_20230212_140052](https://user-images.githubusercontent.com/121864073/218307427-79ef5691-b456-4033-b6d3-09c48cd74714.png)
+
 
 # IBM Data Science Capstone Project - SpaceX
 ## Introduction
